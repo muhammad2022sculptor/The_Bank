@@ -1,0 +1,27 @@
+Student
+Rizwan
+123
+100000
+3210211708483
+Muhammad
+Shahiryar
+shahiryarno1@gmail.com
+9 30 2001
+Male
+House # 32, Block X
+Near Pakistani Chowk
+03346194851
+03346194851
+Dera Ghazi Khan
+32200
+Punjab
+Pakistan
+
+Employment Description:
+Savings
+KFUEIT
+Muhammad Shahiryar
+CS172061
+CS
+RYK
+Rahim Yar Khan

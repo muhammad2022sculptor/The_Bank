@@ -1,0 +1,27 @@
+Student
+wl123
+123
+999000
+1234657888955
+will
+smith
+abc@gmail.com
+12 23 2001
+Male
+Address 1
+Address 2
+25455825682
+78896466555
+City 
+22255
+state
+country
+
+Employment Description:
+
+Uni
+will smith
+cs123456
+computer science
+uni address
+uni address

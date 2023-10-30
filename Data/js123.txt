@@ -1,0 +1,27 @@
+Student
+js123
+123
+997000
+1234406722342
+John
+Smith
+abc@gmail.com
+12 2 1997
+Male
+xyz
+xyz
+12345665788
+12334556778
+Lahore
+23221
+Punjab
+Pakistan
+
+Employment Description:
+
+UET
+John Smith
+1233459761
+Computer Science
+asdcvxcsdf
+Lahore

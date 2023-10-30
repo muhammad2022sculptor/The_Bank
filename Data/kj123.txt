@@ -1,0 +1,27 @@
+Student
+kj123
+123
+990004
+1233455676782
+Kali
+jam
+abc@gmail.com
+12 23 2001
+Male
+Address 1
+Address 2
+12345667567
+12313423536
+City 
+12232
+State
+Country
+
+Employment Description:
+
+UET
+Kali
+1234556778
+Depart
+Uni Address
+Uni City

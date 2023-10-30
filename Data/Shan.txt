@@ -1,0 +1,27 @@
+Student
+Fairy
+123
+900000
+3210211708483
+Fareeha
+Fatima
+FareehaFatima@gmail.com
+11 30 2001
+Female
+asd
+asd
+12345678909
+12345678907
+Dera Ghazi Khan
+32200
+Punjab
+Pakistan
+
+Employment Description:
+
+KFUEIT
+Fareeha Fatima
+CS182001
+BSCS
+RYK
+Rahim Yar Khan
